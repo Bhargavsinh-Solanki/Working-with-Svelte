@@ -1,20 +1,20 @@
 # MORE VARIABLES AND PRINTING
 
-my_name = 'Bhargav Solanki'
-my_age = 25 #not a lie
-my_height = 177 #cm
-my_weight = 74 #kg
-my_eyes = 'brown'
-my_teeth = 'White'
-my_hair = 'black'
+he_name = 'Han Solo'
+he_age = 25 #not a lie
+he_height = 177 #cm
+he_weight = 74 #kg
+he_eyes = 'brown'
+he_teeth = 'White'
+he_hair = 'black'
 
-print(f"Lets talk about my {my_name}")
-print(f"He is {my_height} centimeters tall")
-print(f"He is {my_weight} kilograms heavy")
+print(f"Lets talk about my {he_name}")
+print(f"He is {he_height} centimeters tall")
+print(f"He is {he_weight} kilograms heavy")
 print("Actually thats not too heavy")
-print(f"He has got {my_eyes} eyes and {my_hair} hair")
-print(f"His teeth are usually {my_teeth} depending on the coffee")
+print(f"He has got {he_eyes} eyes and {he_hair} hair")
+print(f"His teeth are usually {he_teeth} depending on the coffee")
 
 # this line is tricky, try to get it exactly right
-total = my_age + my_height + my_weight
-print(f"If I add {my_age}, {my_height}, and {my_weight} I get {total}.")
+total = he_age + he_height + he_weight
+print(f"If I add {he_age}, {he_height}, and {he_weight} I get {total}.")
